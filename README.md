@@ -14,7 +14,8 @@ This was developed to live-stream data from our formula-student car to PC dashbo
 3. **[Yr3ProjectData](https://github.com/Sarahelma/Yr3ProjectData)**
    - Range dropout tests for nRF24 modules
 
-### 🚲 Bike computer
+### 🚲 [Bike computer](https://github.com/Sarahelma/Bike_computer)
+
 A datalogger that records journey time, speed and incline using a raspberry pi pico w.
 
 <!--
